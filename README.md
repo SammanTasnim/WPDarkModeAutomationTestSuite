@@ -14,9 +14,6 @@ This project contains an automation test suite for testing the **WP Dark Mode** 
   - [Environment Variables](#environment-variables)
 - [Running the Tests](#running-the-tests)
   - [Via Eclipse](#via-eclipse)
-  - [Via GitHub Actions](#via-github-actions)
-- [Additional Information](#additional-information)
-- [Contributing](#contributing)
 
 ## Prerequisites
 
