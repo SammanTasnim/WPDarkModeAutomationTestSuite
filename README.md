@@ -32,10 +32,11 @@ Before starting, ensure the following are installed:
 1. Open a terminal or command prompt.
 2. Navigate to the directory where you want to clone the project.
 3. Run the following command to clone the repository:
+   
 git clone [https://github.com/SammanTasnim/WPDarkModeAutomationTestSuite](https://github.com/SammanTasnim/WPDarkModeAutomationTestSuite)
 
 
-4. Navigate into the project directory
+5. Navigate into the project directory
 
 
 ### Set Up WordPress
